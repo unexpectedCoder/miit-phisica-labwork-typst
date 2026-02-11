@@ -98,7 +98,7 @@
   columns: (1fr, 1fr),
   [
     #figure(
-      image("pluto-experiment.png", width: 97%),
+      image("pics/pluto-experiment.png", width: 97%),
       caption: [
         Эксперимент с оружейным плутонием или «почему мужчины живут меньше»
       ]
@@ -106,7 +106,7 @@
   ],
   [
     #figure(
-      image("demon-core.png", width: 97%),
+      image("pics/demon-core.png", width: 97%),
       caption: [Плутониевый шар]
     ) <fig-demon-core>
   ]
@@ -164,7 +164,7 @@ $
 $V$~---~потенциальная энергия системы.
 
 #figure(
-  image("Schrodinger.png", width: 50%),
+  image("pics/Schrodinger.png", width: 50%),
   caption: [Эрвин~Шрёдингер]
 ) <fig-Schrodinger>
 
