@@ -8,11 +8,11 @@
 2. Установите [VS Code](https://code.visualstudio.com/). Это бесплатный расширяемый текстовый редактор.
     * Установить расширение [Tinymist Typst](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist).
     * *При желании установить расширение* [*Typst Sync*](https://marketplace.visualstudio.com/items?itemName=OrangeX4.vscode-typst-sync).
-3. Установить в систему шрифты [STIX Two Text](https://fonts.google.com/specimen/STIX+Two+Text) и [STIX Two Math](https://fonts-online.ru/fonts/stix-two-math), используемые в шаблоне (данные шрифты открытые и бесплатные).
-    * Скачаются архивы.
-    * Откройте их и запустите все найденные файлы с расширением `.ttf`.
-    * Откроется установщик шрифтов.
-    * Нажмите «Установить».
+3. Установить в систему шрифты STIX Two Text и STIX Two Math (оба можно скачать [здесь](https://www.fonts.uprock.ru/fonts/stix)), используемые в шаблоне (данные шрифты открытые и бесплатные).
+    * Скачается архив.
+    * Откройте его и запустите все найденные файлы с расширением `.ttf` в папке `static_ttf`.
+    * Для каждого файла откроется установщик шрифтов.
+    * В каждом случае нажмите «Установить».
     * Если VS Code открыт, то закройте его и запустите заново, чтобы он подцепил новые шрифты.
 
 Вместо VS Code можно установить официальное бесплатное приложение typst.app.
