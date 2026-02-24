@@ -1,2 +1,18 @@
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Typst
+*.pdf
+.typst-cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Скрытые файлы (кроме .gitignore)
 .*
 !.gitignore
